@@ -169,6 +169,7 @@ header{
 .section-event{
     background-color: rgb(8, 47, 73);
     padding: 30px 0;
+    overflow: hidden;
 }
 .event-contents{
     max-width: 1140px;
@@ -206,6 +207,7 @@ header{
 /* *******************************about section*************************** */
 .section-about{
     padding: 80px 0;
+    overflow: hidden;
 }
 
 .about-container::after{
@@ -316,6 +318,7 @@ header{
 .section-services{
     padding: 100px 0;
     background-color: var(--primary-grey);
+    overflow: hidden;
 }
 
 .services-heading{
@@ -405,6 +408,7 @@ header{
     background-image: linear-gradient(rgb(0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../image/photo4.jpg');
     background-position: bottom;
     height: 50vh;
+    overflow: hidden;
 }
 .technical-contents{
     text-align: center;
@@ -431,6 +435,7 @@ header{
 .section-rate{
     padding: 100px 0;
     background-color: var(--primary-grey);
+    overflow: hidden;
 }
 .rate-icon{
     font-size: 40px;
@@ -452,6 +457,7 @@ header{
 /* *******************************seminars section*************************** */
 .section-seminars{
     padding: 100px 0;
+    overflow: hidden;
 }
 
 .seminars-head{
@@ -511,6 +517,7 @@ header{
 .section-record{
     padding: 100px 0;
     background-color: var(--primary-grey);
+    overflow: hidden;
     
 }
 
@@ -539,6 +546,7 @@ header{
 
 .section-conference{
     padding: 100px 0;
+    overflow: hidden;
 }
 
 .conference-content{
